@@ -1,0 +1,19 @@
+{
+  "name": "gfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron . -dev",
+    "rebuild": "electron-rebuild -f -w serialport"
+  },
+  "author": "Luan Ademi",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.10",
+    "serialport": "^6.0.2"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.8.2"
+  }
+}

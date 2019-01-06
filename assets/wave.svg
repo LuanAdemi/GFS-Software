@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 198">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(83,75,174,0.25);
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="wave" class="cls-1" d="M0-121C311-121,409.9.25,811,0c400,0,500-121,789-121v-77H0S0-150,0-121Z" transform="translate(1600 0) rotate(180)"/>
+</svg>

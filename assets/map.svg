@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 678.943 487.943">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #6ca264;
+        stroke-linecap: round;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Gruppe_5" data-name="Gruppe 5" transform="translate(-169.524 -300.533)">
+    <line id="Linie_1" data-name="Linie 1" class="cls-1" x2="181" y2="255" transform="translate(262.5 438.5)"/>
+    <line id="Linie_2" data-name="Linie 2" class="cls-1" y1="159" x2="222" transform="translate(398.5 463.5)"/>
+    <line id="Linie_3" data-name="Linie 3" class="cls-1" x1="27" y1="45" transform="translate(443.5 591.5)"/>
+    <line id="Linie_4" data-name="Linie 4" class="cls-1" x1="78" y1="113" transform="translate(529.5 529.5)"/>
+    <line id="Linie_5" data-name="Linie 5" class="cls-1" x2="190" y2="252" transform="translate(616.5 466.5)"/>
+    <line id="Linie_6" data-name="Linie 6" class="cls-1" x1="76" y1="111" transform="translate(491.5 385.5)"/>
+    <line id="Linie_7" data-name="Linie 7" class="cls-1" y1="159" x2="222" transform="translate(176.5 622.5)"/>
+    <line id="Linie_8" data-name="Linie 8" class="cls-1" y1="157" x2="223" transform="translate(618.5 307.5)"/>
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-1" transform="translate(591 637)">
+      <circle class="cls-2" cx="30" cy="30" r="30"/>
+      <circle class="cls-3" cx="30" cy="30" r="25"/>
+    </g>
+  </g>
+</svg>
